@@ -1,0 +1,16 @@
+sample_index,adc_raw,tia_voltage_mv,sensor_current_ua,measurement_note
+1,0,,,
+2,111,89.451,4.472528,Recorded corresponding values
+3,94,,,
+4,81,,,
+5,24,,,
+6,29,,,
+7,61,,,
+8,127,,,
+9,174,,,
+10,161,,,
+11,138,,,
+12,243,,,
+13,175,,,
+14,251,202.271,10.113553,Recorded corresponding values
+15,167,,,
